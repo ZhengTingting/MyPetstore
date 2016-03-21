@@ -5,7 +5,7 @@
 	
 		<h3>User Information</h3>
 	
-		<table>
+		<table id="UserInformation">
 			<tr>
 				<td>User ID:</td>
 				<td>${account.username}</td>
